@@ -16,4 +16,4 @@ general:
 
 test:
   post:
-    - sudo ./build/compile.sh
+    - sudo bash /build/compile.sh
